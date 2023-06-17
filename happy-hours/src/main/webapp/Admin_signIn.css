@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div1{
+   height: 110%;
+   width: 100%;
+  background-position: center;
+  background-size: cover;
+position: absolute;
+}
+.logo{
+    width: 220px;
+height: 200px;
+margin-left: 80px;
+position: relative;
+}
+.background-img{
+    height: 100%;
+   width: 100%;
+  background-position: center;
+  background-size: cover;
+position: absolute;
+}
+.mainBox{
+    width: 400px;
+    height: 620px;
+    position: relative;
+    margin: 6% auto;
+    background-color: white;
+    padding: 5px;
+}
+.buttonBox{
+   
+width: 220px;
+margin-top: 30px;
+margin-left: 80px;
+border-radius: 15%;
+position: relative;
+box-shadow:5px 0 20px rgb(255, 0, 0);
+}
+.button1{
+    padding: 10px 30px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    position: relative;
+   
+}
+.button2{
+    width: 115px;
+    padding: 10px 30px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    position: relative;
+    background-color: rgb(255, 0, 0);
+}
+/* #btn{
+    top: 0;
+    left: 0;
+    width: 110px;
+    height: 100%;
+   background-color: black;
+border-radius: 30px;
+transition: .5s;
+} */
+.table{
+    margin-left:  10%;
+   
+    position: relative;
+}
+#fn{
+    outline: 0;
+    border: 1px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 2s;
+}
+#fn:hover{
+    box-shadow:5px 0 20px rgb(255, 0, 0);
+}
+.fn{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ln{
+    margin-top: 10px;
+    outline: 0;
+    border: 1px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 2s;
+}
+#ln:hover{
+    box-shadow:5px 0 20px rgb(255, 0, 0);
+}
+
+.ln{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#email{
+    margin-top: 10px;
+    outline: 0;
+    border: 1px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 2s;
+}
+#email:hover{
+    box-shadow:5px 0 20px rgb(255, 0, 0);
+}
+
+.email{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#no{
+    margin-top: 10px;
+    outline: 0;
+    border: 1px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 2s;
+}
+#no:hover{
+    box-shadow:5px 0 20px rgb(255, 0, 0);
+}
+
+.no{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#password1{
+    margin-top: 10px;
+    outline: 0;
+    border: 1px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 2s;
+}
+#password1:hover{
+    box-shadow:5px 0 20px rgb(255, 0, 0);
+}
+.password1{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#password2{
+    margin-top: 10px;
+    outline: 0;
+    border: 1px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 2s;
+}
+#password2:hover{
+    box-shadow:5px 0 20px rgb(255, 0, 0);
+}
+
+.password2{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ch{
+    margin-top: 10px;
+    outline: 0;
+    border: 1px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 2s;
+}
+#ch:hover{
+    box-shadow:5px 0 20px rgb(255, 0, 0);
+}
+.ch{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn2{
+   padding: 10px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    position: relative;
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+background-color: rgb(255, 0, 0);
+}
